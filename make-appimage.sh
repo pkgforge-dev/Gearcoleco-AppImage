@@ -16,7 +16,8 @@ export DEPLOY_OPENGL=1
 export DEPLOY_PIPEWIRE=1
 
 # Deploy dependencies
-quick-sharun /opt/gearcoleco/*
+quick-sharun /opt/gearcoleco/* \
+/usr/lib/alsa-lib/libasound_module_pcm_pipewire.so
 
 # Additional changes can be done in between here
 wget -O ./AppDir/bin/gamecontrollerdb.txt https://raw.githubusercontent.com/mdqinc/SDL_GameControllerDB/master/gamecontrollerdb.txt
