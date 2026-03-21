@@ -8,8 +8,8 @@ echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
     libdecor       \
+    pipewire-alsa  \
     pipewire-audio \
-    pipewire-jack  \
     sdl2
 
 echo "Installing debloated packages..."
