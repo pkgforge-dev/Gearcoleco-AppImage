@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Gearcoleco-AppImage)](https://github.com/pkgforge-dev/Gearcoleco-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://github.com/drhelius/Gearcoleco/blob/main/platforms/macos/image.png" width="128" />
 </p>
 
 
