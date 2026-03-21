@@ -8,8 +8,9 @@ export ARCH VERSION
 export OUTPATH=./dist
 export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
-export ICON=PATH_OR_URL_TO_ICON
+export ICON=https://raw.githubusercontent.com/drhelius/Gearcoleco/refs/heads/main/platforms/macos/image.png
 export DESKTOP=/usr/share/applications/gearcoleco.desktop
+export STARTUPWMCLASS=gearcoleco
 export DEPLOY_GTK=1
 export DEPLOY_OPENGL=1
 
