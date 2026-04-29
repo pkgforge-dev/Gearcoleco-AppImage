@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Gearcoleco
+Comment="ColecoVision emulator"
+Exec=gearcoleco
+Icon=image
+StartupWMClass=gearcoleco
+Categories=Game;Emulator
+Terminal=false
